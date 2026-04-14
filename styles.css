@@ -208,16 +208,6 @@ body {
   outline-offset: 3px;
 }
 
-.header-note {
-  margin: 0;
-  font-family: var(--font-ui);
-  font-size: 0.8125rem;
-  font-weight: 500;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-  color: var(--text-muted);
-}
-
 /* ——— Page shell ——— */
 
 .page {
@@ -586,11 +576,6 @@ body {
 
   .header-demo {
     width: 100%;
-  }
-
-  .header-note {
-    text-align: center;
-    line-height: 1.4;
   }
 
   .hero-demo {
